@@ -61,6 +61,7 @@ namespace SimulacionCoccion
                     CarneCocinadaTextBox.Text = "1kg";
                 }
 
+
                 if (TipoCarne == 1)
                 {
                     if (radioButton1.Checked)
